@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041763790482",
+    "project_id": "kec-student-portal",
+    "storage_bucket": "kec-student-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041763790482:android:6e412fce7b35a09d2cc04b",
+        "android_client_info": {
+          "package_name": "com.kecstudentportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041763790482-5pjdldrbnggch0eel99hjt6nprdhb4f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkXXp-05kQQFQcINqWwQ_5eQYbxHHvcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041763790482-5pjdldrbnggch0eel99hjt6nprdhb4f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
